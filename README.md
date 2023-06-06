@@ -3,13 +3,13 @@
 <h3>🤝 Социальные сети:</h3>
   <div id="badges">
    <!-- <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="22px" height="22px" alt="linkedin" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="30" height="30" alt="linkedin" />
     </a> -->
      <a href="https://t.me/semidalov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="22px" height="22px" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram group" />
     </a>
     <a href="https://vk.com/semidalov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="22px" height="22px" alt="VK Badge"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="30" height="30" alt="VK Badge"/>
     </a>
   </div>
 
