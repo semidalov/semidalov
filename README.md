@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://vk.com/semidalov">
-  <img align="left" alt="VK" width="22px" src="https://github.com/semidalov/semidalov/blob/main/src/png-transparent-vk-social-network-logo-rounded-social-media-icon.pnghttps://github.com/semidalov/semidalov/blob/main/src/png-transparent-vk-social-network-logo-rounded-social-media-icon.png" />
+  <img align="left" alt="VK" width="22px" src="https://raw.githubusercontent.com/semidalov/semidalov/main/src/png-transparent-vk-social-network-logo-rounded-social-media-icon.png" />
 </a>
 
 
