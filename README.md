@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🤝 Социальные сети:
+<h2>🤝 Социальные сети:</h2>
   <div id="badges">
    <!-- <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="22px" height="22px" alt="linkedin" />
