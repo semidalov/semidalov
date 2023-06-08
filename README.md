@@ -8,7 +8,7 @@
 
 В данный момент работаю над ServiceDesk приложением - pet проект.
 
-<h3>🤝 Я в соц-сетях:</h3>
+<h3>🤝 Я в соцсетях:</h3>
   <div id="badges">
    <!-- <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="30" height="30" alt="linkedin" />
